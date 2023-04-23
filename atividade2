@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Monteiro Lobato</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="http://127.0.0.1:5500/index.html">Página Principal</a></li>
+                <li><a href="http://127.0.0.1:5500/sobre-a-clinica.html">Sobre a clínica</a></li>
+                <li><a href="http://127.0.0.1:5500/horariodeatendimento.html">Horário de atendimento</a></li>
+                <li><a href="http://127.0.0.1:5500/contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <h1>Clínica Monteiro Lobato</h1>
+                <img src="https://images.pexels.com/photos/5327653/pexels-photo-5327653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+            </div>
+    
+            <div class="content">
+                <h2>Conheça mais sobre a Clínica Monteiro Lobato</h2>
+                <p>A Clínica Monteiro Lobato veio para te atender melhor! Qualidade e confiança são nossos pilares</p>
+            </div>
+    
+            <div class="footer">
+                <h3>Contato</h3>
+                <p><b>Endereço:</b> R. Monteiro Lobato, 2233. São Paulo, SP - Brasil</p>
+                <p><b>Telefone:</b>(11) 99127185</p>
+                <p><b>Whatsapp:</b>(11) 95670012</p>
+                <p><b>E-mail:</b> clinicamonteirolobato@gmail.com</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
